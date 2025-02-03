@@ -22,8 +22,4 @@ This project is an interactive 3D visualization of the solar system. It offers a
 6. **Display Information**: Hover over a planet with your mouse or click on it to display its detailed characteristics.  
 7. **Activate Night Mode**: Click on the `set-night-mode` option to switch to a darker display suited for nighttime conditions.  
 
-## Installation  
 
-1. Clone the GitHub repository:  
-   ```bash  
-   git clone https://github.com/Mohammed-ES/Système-Solaire-3D.git
