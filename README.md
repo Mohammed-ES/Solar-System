@@ -24,4 +24,4 @@ This project is an interactive 3D visualization of the solar system. It offers a
 
 ## 🌍 Live Demo  
 
-🚀 Explore the project here: [3D Solar System](https://mohammed-es.github.io/Solar-System/) 🌟🌠  
+🚀 Explore the project here: [3D Solar System]() 🌟🌠  
